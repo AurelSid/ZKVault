@@ -1,6 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
 require("@nomiclabs/hardhat-vyper");
-import "@nomicfoundation/hardhat-toolbox-viem";
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   // Vyper configuration (for Vyper contracts)
