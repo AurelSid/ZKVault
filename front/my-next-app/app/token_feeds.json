@@ -1,0 +1,62 @@
+{
+  "DeFi Tokens": [
+    {
+      "name": "Aave (AAVE)",
+      "address": "0x01414156452f555344000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+    },
+    {
+      "name": "Uniswap (UNI)",
+      "address": "0x01554e492f55534400000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+    },
+    {
+      "name": "THORChain (RUNE)",
+      "address": "0x0152554e452f555344000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png"
+    }
+  ],
+  "Gaming Tokens": [
+    {
+      "name": "Bonk (BONK)",
+      "address": "0x01424f4e4b2f555344000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png"
+    },
+    {
+      "name": "Jupiter (JUP)",
+      "address": "0x014a55502f55534400000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png"
+    },
+    {
+      "name": "Sui (SUI)",
+      "address": "0x015355492f55534400000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png"
+    }
+  ],
+  "Meme Tokens": [
+    {
+      "name": "Shiba Inu (SHIB)",
+      "address": "0x01534849422f555344000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+    },
+    {
+      "name": "Pepe (PEPE)",
+      "address": "0x01504550452f555344000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
+    },
+    {
+      "name": "Dogecoin (DOGE)",
+      "address": "0x01444f47452f555344000000000000000000000000",
+      "realprice": "",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+    }
+  ]
+}
